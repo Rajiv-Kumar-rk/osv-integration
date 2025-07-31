@@ -41,7 +41,7 @@ ii. outer files:
 1. create folder backend
 2. change directory to /backend
 3. clone the repository
-git clone https://github.com/yourusername/package-scanner-app.git
+git clone https://github.com/Rajiv-Kumar-rk/osv-integration.git
 
 4.create virtual environment: 
     python -m venv venv
